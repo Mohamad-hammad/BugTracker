@@ -1,0 +1,22 @@
+Pages To be Added:
+->Login
+->SignUp
+->Profile/Update Profile
+->Home
+->Generate Ticket
+->View All Tickets
+->Admin Panel
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
